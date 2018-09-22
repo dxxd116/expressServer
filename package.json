@@ -1,0 +1,11 @@
+{
+  "name": "liverpool",
+  "version": "1.0.0",
+  "description": "This is a test implementing api services for other projects!",
+  "main": "index.js",
+  "author": "Cai Xingliang",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
