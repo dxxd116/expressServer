@@ -9,6 +9,6 @@
     "express": "^4.16.3"
   },
   "scripts" : {
-    "test": ""
+    "test": "node test/index.js"
   }
 }
