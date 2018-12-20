@@ -108,4 +108,9 @@ router.use("/auth/logout/", function(req,res) {
     res.json(data)
 })
 
+router.use("/posts", function(req,res){
+    // res.set("Access-Control-Allow-Origin", "*")
+    res.json({'result_code': 'success'})
+})
+
 module.exports=router
